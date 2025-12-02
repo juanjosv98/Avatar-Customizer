@@ -23,8 +23,6 @@ The project focuses for now on providing a simple UI and a text-based command in
 - `Packages/` – Unity package manifest and dependencies  
 - `ProjectSettings/` – Unity project configuration  
 
-> Note: `Library/`, `Logs/` and other generated folders are excluded via `.gitignore` to keep the repository clean.
-
 ## Status
 We integrated the Ready Player Me SDK into the Unity project, built the UI for avatar customization, and implemented the text-based command system that connects user inputs to avatar changes in real time.  
 The goal of the hackathon was to demonstrate how users could eventually control and customize an avatar using natural language (via future Speech-to-Text integration).
