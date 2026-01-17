@@ -17,11 +17,6 @@ The project focuses for now on providing a simple UI and a text-based command in
 - **C#**  
 - **Ready Player Me Core / Avatar Creator Elements**  
 
-## 📂 Project Structure
-
-- `Assets/` – project scripts, scenes, UI, and Ready Player Me sample assets  
-- `Packages/` – Unity package manifest and dependencies  
-- `ProjectSettings/` – Unity project configuration  
 
 ## Status
 We integrated the Ready Player Me SDK into the Unity project, built the UI for avatar customization, and implemented the text-based command system that connects user inputs to avatar changes in real time.  
